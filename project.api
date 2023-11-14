@@ -1,0 +1,12 @@
+# picture.hpp
+!house.cpp graphics.h keys_n_colors.h #<#>
+!picture.hpp graphics.h keys_n_colors.h #<#>
+!programm.cpp graphics.h keys_n_colors.h math.h picture.hpp stdio.h #<#>
+!sun.cpp cmath graphics.h keys_n_colors.h limits limits.h math.h picture.hpp stdlib.h type_traits #<#>
+!tree.cpp graphics.h keys_n_colors.h #<#>
+fence() -> void #<picture.hpp>
+house() -> void #<picture.hpp>
+main() -> int #<programm.cpp>
+man() -> void #<picture.hpp>
+sun() -> void #<picture.hpp>
+tree() -> void #<picture.hpp>
